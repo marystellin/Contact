@@ -1,0 +1,14 @@
+{
+    "condition":[
+        {
+            "name":"ruby",
+            "Email":"ruby@gmail.com",
+            "PhoneNumber":"7550363241"
+        },
+        {
+            "name":"mary",
+            "Email":"mary@gmail.com",
+            "PhoneNumber":"7550363298"
+        }
+    ]
+}
